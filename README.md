@@ -1,2 +1,5 @@
 # TestBlockchain
-An anaconda testing playground.
+
+A blockchain testing playground.
+
+## Installation
